@@ -4,7 +4,7 @@
             height="150" /> </a>
 </p>
 
-# <p align='center'>Data Structures and Algorithm Program Codes in Java</p>
+# <p align='center'>Data Structures and Algorithm in Java</p>
 
 ### *A collection of Data Structures and Algorithm codes for beginners in Java.*
 
