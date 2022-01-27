@@ -1,0 +1,15 @@
+				best		worst
+				
+bubble srt		n			n^2
+insertion		n			n^2
+selection		n^2			n^2
+quick			nlogn		n^2
+merge			nlogn		nlogn
+bst				logn		n
+avl					logn
+binary search	1	n		logn
+linear search	1	logn 	n			
+stack				1
+queue				1
+arraylist			n	
+linked list			n
